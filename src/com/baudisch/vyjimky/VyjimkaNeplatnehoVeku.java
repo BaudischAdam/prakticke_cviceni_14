@@ -1,4 +1,4 @@
-package com.baudisch;
+package com.baudisch.vyjimky;
 
 /**
  * Výjimka pokud je věk menší než 18.

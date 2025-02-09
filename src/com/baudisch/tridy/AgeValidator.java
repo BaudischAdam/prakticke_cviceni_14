@@ -1,4 +1,6 @@
-package com.baudisch;
+package com.baudisch.tridy;
+
+import com.baudisch.vyjimky.VyjimkaNeplatnehoVeku;
 
 public class AgeValidator {
     /**

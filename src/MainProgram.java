@@ -1,7 +1,7 @@
-import com.baudisch.MimoRozsahLet;
-import com.baudisch.VyjimkaNeplatnehoVeku;
-import static com.baudisch.AgeValidator.checkAge;
-import static com.baudisch.LeapYearChecker.isLeapYear;
+import com.baudisch.vyjimky.MimoRozsahLet;
+import com.baudisch.vyjimky.VyjimkaNeplatnehoVeku;
+import static com.baudisch.tridy.AgeValidator.checkAge;
+import static com.baudisch.tridy.LeapYearChecker.isLeapYear;
 
 public class MainProgram {
 

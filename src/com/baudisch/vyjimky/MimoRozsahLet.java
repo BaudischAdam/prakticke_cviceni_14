@@ -1,4 +1,4 @@
-package com.baudisch;
+package com.baudisch.vyjimky;
 
 /**
  * Výjimka pokud rok není v rozsahu 1900-2100.
